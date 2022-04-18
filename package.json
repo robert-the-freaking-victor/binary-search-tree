@@ -1,0 +1,23 @@
+{
+  "name": "binary-search-tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert-the-freaking-victor/binary-search-tree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robert-the-freaking-victor/binary-search-tree/issues"
+  },
+  "homepage": "https://github.com/robert-the-freaking-victor/binary-search-tree#readme",
+  "devDependencies": {
+    "eslint": "^8.13.0",
+    "jest": "^27.5.1"
+  }
+}
